@@ -4,11 +4,9 @@ A simple Python program to check MtG decks against a custom banlist
 How to use:
 
 ```
-1. Edit banlist.txt with the cards on your custom banlist.  Each line should be 1 card name\
-with nothing else.
-
+1. Edit banlist.txt with the cards on your custom banlist.
+   Each line should be 1 card namewith nothing else.
 2. Export your deck from whatever deckbuilding site you use as a simple .txt file
-
 3. Run the program, click the button, and select the text file of your deck
 ```
 
